@@ -1,0 +1,2 @@
+# CustomSynchronizationContextForConsoleApp
+Пример кастомного диспетчера синхронизации потоков для console app
